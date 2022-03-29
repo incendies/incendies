@@ -1,8 +1,5 @@
 Hello, this is **Yunus Emre Özdiyar** 👋
 
-<br />
-<br />
-
 ## 📊 GitHub Stats
 
 <p align="center">
