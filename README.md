@@ -12,7 +12,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a freelance 
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning new languages
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
