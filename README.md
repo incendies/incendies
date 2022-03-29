@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about new ideas, SEO and software development
-- 📫 How to reach me: 
-- [(**Twitter**)]https://twitter.com/emreozdiyar
-- [(**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
+- 📫 [Follow and message me(**Twitter**)]https://twitter.com/emreozdiyar
+-     [CV and more (**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
