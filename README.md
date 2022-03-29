@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about new ideas, SEO and software development
 - 📫 How to reach me: (**Twitter**)https://twitter.com/emreozdiyar
-     (**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
+-    (**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
 -->
