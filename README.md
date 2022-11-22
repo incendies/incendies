@@ -2,12 +2,8 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=incendies&count_private=true&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incendies&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-   </p>
-</p>
+![](https://raw.githubusercontent.com/incendies/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/incendies/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 Here are some ideas to get you started:
