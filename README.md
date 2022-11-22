@@ -2,8 +2,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 ## 📊 GitHub Stats
 
-https://raw.githubusercontent.com/incendies/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-https://raw.githubusercontent.com/incendies/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Yunus Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=incendies)](https://github.com/incendies/github-readme-stats)
 
 
 Here are some ideas to get you started:
