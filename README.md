@@ -2,7 +2,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=incendies)](https://github.com/incendies/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=incendies&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
