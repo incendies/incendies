@@ -7,7 +7,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently looking for job as a Full-Stack Developer or Senior SEO Specialist
 - 🌱 I’m currently learning new languages
 - 👯 I’m looking to collaborate on startups
 - 🤔 I’m looking for help with new project ideas
