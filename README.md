@@ -3,7 +3,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job as a Full-Stack Developer
-- 🌱 I’m actively learning new programming languages
+- 🌱 I’m actively learning new programming languages and technologies
 - 👯 I’m looking to collaborate with startups or companies
 - 🤔 I’m looking for help with new project ideas. I love to do open-source development and build projects on my GitHub. 
 - 💬 Ask me about new ideas, software development, AI and SEO, or finance 
