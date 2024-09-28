@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m actively learning new programming languages and technologies.
 - 👯 I’m looking to collaborate with startups or companies.
 - 🤔 I’m looking for help with new project ideas. I love to do open-source development and build projects on my GitHub. 
-- 💬 Ask me anything about new SaaS ideas, software development, AI and SEO, game development or finance. 
+- 💬 Ask me anything about new SaaS ideas, software development, AI and SEO, game development, or finance. 
 - 📫 [Follow and message me (**Twitter**)](https://twitter.com/emreozdiyar)
 -    [CV and more (**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
 
