@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about new SaaS ideas, software development, AI and SEO, game development, or finance. 
 - 📫 [Follow and message me (**Twitter**)](https://twitter.com/emreozdiyar)
 -    [CV and more (**LinkedIn**)](https://linkedin.com/in/yunusemreozdiyar)
--    - [LeetCode (**LeetCode**)](https://leetcode.com/u/incendies/)
+-    [LeetCode (**LeetCode**)](https://leetcode.com/u/incendies/)
 
 ## 📊 GitHub Stats
 
