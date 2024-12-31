@@ -2,7 +2,7 @@ Hello, this is **Yunus Emre Özdiyar** 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for a business partner for my SaaS or mobile apps projects don't forget to reach me.
+- 🔭 I’m currently looking for a business partner for my SaaS or mobile apps projects don't forget to message me.
 - 🌱 I’m actively learning new programming languages and technologies.
 - 👯 I’m looking to collaborate with startups or companies.
 🤔 I would like to help with new projects.
